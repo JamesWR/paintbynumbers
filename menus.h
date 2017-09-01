@@ -1,0 +1,20 @@
+/* Menu definitions */
+
+#define MENU_FILE_NEW		1000 + 0
+#define MENU_FILE_OPEN		1000 + 1
+#define MENU_FILE_CLOSE		1000 + 2
+#define MENU_FILE_SAVE		1000 + 3
+#define MENU_FILE_SAVEAS	1000 + 4
+#define MENU_FILE_PRINT		1000 + 5
+#define MENU_FILE_PRINTALL	1000 + 6
+
+#define MENU_EDIT_UNDO		2000 + 0
+#define MENU_EDIT_CUT		2000 + 1
+#define MENU_EDIT_COPY		2000 + 2
+#define MENU_EDIT_PASTE		2000 + 3
+#define MENU_EDIT_CLEAR		2000 + 4
+
+#define MENU_MODE_SETUP		3000 + 1
+#define MENU_MODE_VALIDATE	3000 + 3
+#define MENU_MODE_SOLVE		3000 + 4
+#define MENU_MODE_SOLVEALL	3000 + 5
